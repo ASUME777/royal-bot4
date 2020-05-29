@@ -20,7 +20,7 @@ const gif = require("gif-search");
 
 const client = new Discord.Client({disableEveryone: true});
 
-const prefix = "4";
+const prefix = "R";
 /////////////////////////
 ////////////////////////
 
@@ -354,4 +354,4 @@ client.user.setGame(`4play | Last Music`,"http://twitch.tv/Death Shop")
 client.user.setStatus("dnd")
 });
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.BOT_TOKEN);https:NDc4NTg3NzU2NzYzOTM4ODI2.XtC3QA.1sZFKuoCj_uBBbxWc_ZU8Bd4qK4
